@@ -1,10 +1,15 @@
 <h1 align="center">Sup👋, I'm Saksham Goswami👨‍💻</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=New+code+fills+the+screen%2C;Each+bug+brings+a+lesson." alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">🔭 I’m currently working on a <strong>Library Management System</strong></p>  
 <p align="center">👯 I’m looking to collaborate on projects related to library management</p>  
 <p align="center">🤝 I’m looking for help with software development and data analysis</p>  
 <p align="center">🌱 I’m currently learning <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, <strong>Seaborn</strong>, <strong>Scikit-learn</strong>, <strong>TensorFlow</strong>, and <strong>PyTorch</strong>.</p>  
-<p align="center">💬 Ask me about anything! ¯\_(ツ)_/¯</p>  
+<p align="center">💬 Ask me about anything! ¯\\_(ツ)_/¯</p>  
 <p align="center">⚡ Fun fact: I have a hobby of creating unique wallpapers!</p>
 
 <h2 align="center">🌐 Socials:</h2>
