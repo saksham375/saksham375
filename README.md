@@ -38,8 +38,8 @@
 </p>
 
 <h1 align="center">📊 GitHub Stats:</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saksham375&theme=radical&hide_border=true&include_all_commits=false&count_private=false"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham375&theme=radical&hide_border=true"><br/>
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=saksham375&theme=radical&hide_border=true&include_all_commits=false&count_private=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham375&theme=radical&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham375&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </p>
