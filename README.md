@@ -5,7 +5,7 @@
 👯 I’m looking to collaborate on projects related to library management  
 🤝 I’m looking for help with software development and data analysis  
 🌱 I’m currently learning **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, **Scikit-learn**, **TensorFlow**, and **PyTorch**.  
-💬 Ask me about anything! ¯\_(ツ)_/¯  
+💬 Ask me about anything!  ¯\_(ツ)_/¯  
 ⚡ Fun fact: I have a hobby of creating unique wallpapers!
 
 ## 🌐 Socials:
