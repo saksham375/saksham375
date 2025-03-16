@@ -38,7 +38,6 @@
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <table style="border:none;margin:0 auto">
-  <img src="https://github-readme-stats.vercel.app/api?username=saksham375&theme=radical&hide_border=true&include_all_commits=false&count_private=false">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham375&theme=radical&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham375&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </p>
